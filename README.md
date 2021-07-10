@@ -1,2 +1,2 @@
-# knowledge_base
+# Basic Knowledge
 Repository with all basics.
